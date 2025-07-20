@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <div>
-      Animesh code 
+      <h1>mahak tuwani</h1>
     </div>
   )
 }
